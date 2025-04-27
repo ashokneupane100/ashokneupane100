@@ -17,7 +17,7 @@
 
 ### 🌱 I’m currently doing **ReactJS and NodeJS**
 
-### 💬 Ask me about **HTML, CSS, JS, REACT,NodeJS and MONGODB**
+### 💬 Ask me about **ReactNative,HTML, CSS, JS, REACT,NodeJS and MONGODB**
 
 ### 📫 How to reach me: 
 **ashokabrother@gmail.com**
